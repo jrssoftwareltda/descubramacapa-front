@@ -1,7 +1,7 @@
 import "../styles/globals.css";
 
 export const metadata = {
-  title: "FoodFloripa",
+  title: "DescubraMacapa",
   description: "Descubra bares e restaurantes em Floripa",
 };
 

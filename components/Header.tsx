@@ -44,14 +44,7 @@ export function Header({
             href="/"
             className="flex items-center hover:opacity-90 transition"
           >
-            <Image
-              src="/logo_food_floripa.svg"
-              alt="FoodFloripa"
-              width={160}
-              height={40}
-              priority
-              className="h-8 md:h-9 w-auto"
-            />
+            <p className="text-2xl font-bold text-white">DescubraMacapa</p>
           </Link>
         </div>
 
